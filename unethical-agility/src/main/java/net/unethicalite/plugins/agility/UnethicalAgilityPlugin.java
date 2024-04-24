@@ -51,7 +51,8 @@ public class UnethicalAgilityPlugin extends LoopedPlugin
 
 	private Random rand = new Random();
 
-	private int randomDelay(int minDelay, int maxDelay) {
+	private int randomDelay(int minDelay, int maxDelay)
+	{
 		return rand.nextInt(maxDelay - minDelay + 1) + minDelay;
 	}
 
@@ -91,9 +92,12 @@ public class UnethicalAgilityPlugin extends LoopedPlugin
 	@Override
 	protected int loop()
 	{
-		try {
+		try
+		{
 			Thread.sleep(randomDelay(1800, 2400));  // Random delay between 600ms and 1200ms
-		} catch (InterruptedException e) {
+		}
+		catch (InterruptedException e)
+		{
 			Thread.currentThread().interrupt();
 		}
 
