@@ -31,6 +31,9 @@ import net.unethicalite.api.plugins.Plugins;
 import net.unethicalite.api.utils.MessageUtils;
 import net.unethicalite.api.widgets.Dialog;
 import org.pf4j.Extension;
+import java.util.Random;
+
+
 
 import javax.swing.SwingUtilities;
 
@@ -45,6 +48,13 @@ import static net.runelite.api.ItemID.SUMMER_PIE;
 @Extension
 public class UnethicalAgilityPlugin extends LoopedPlugin
 {
+
+	private Random rand = new Random();
+
+	private int randomDelay(int minDelay, int maxDelay) {
+		return rand.nextInt(maxDelay - minDelay + 1) + minDelay;
+	}
+
 	@Inject
 	private UnethicalAgilityConfig config;
 
@@ -81,6 +91,12 @@ public class UnethicalAgilityPlugin extends LoopedPlugin
 	@Override
 	protected int loop()
 	{
+		try {
+			Thread.sleep(randomDelay(1800, 2400));  // Random delay between 600ms and 1200ms
+		} catch (InterruptedException e) {
+			Thread.currentThread().interrupt();
+		}
+
 		if (Dialog.canContinue())
 		{
 			Dialog.continueSpace();
