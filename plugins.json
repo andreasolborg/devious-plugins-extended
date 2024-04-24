@@ -6,7 +6,7 @@
   "id": "hoottempoross-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "639598ED1EF1D1C1C44496F9ED1731C65178707543F9CDAD6744F657BB0C109BDEFCE79CA169D261D693EFFF31D9D8590591F0513A168D87A7B8F4A75F10E1EC",
+    "sha512sum": "07B3D7FFC52B9CDA3E7B1D9A475827A209153EEC4EEBA83FDC2F4CB86226CECCBC4F3CBDDEC30347DF56169A88C16C77BB97BA1C0989298FA50ABB501303F6C3",
     "version": "0.0.7",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/hoot-tempoross-0.0.7.jar?raw=true",
     "requires": "^1.0.0"
@@ -19,7 +19,7 @@
   "id": "mautoswitcher-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "76F4BF836893F5D49A17134D4D6601F5E1447BD2B63DC7A0601429748E80F167DE1B86EBE058132D7703CF328968E80967C7BE10C38F4B32CAA4290F8D89B090",
+    "sha512sum": "BD84307AA4385B4817B3122EF3A9E786FFB5D8C2869C0814E5EE157C68603BFE0096E00B0CFEC1224898FB82FF12BB1FB1ABDC236548C3FD98267DA2A011744B",
     "version": "0.0.1",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/m-autoswitcher-0.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -32,7 +32,7 @@
   "id": "mpowerfisher-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "8D01E1A589EC2685484ADE52FE4E22E9D8A8C4C45C719D617FE05275A7928C3C74C19AF1E936CE7A0889ECA332B7AAC508F2D95EA782D1289822D1F39919565B",
+    "sha512sum": "3424886576CBDFE1D46574770FE42FAA6CA28C08E9E76E3A31A87D6D24904CDD0C16D36F3560A1EE9C5955BD79C895FB7E2212DDC3FF0A386A09932AEBE53F82",
     "version": "0.0.2",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/m-powerfisher-0.0.2.jar?raw=true",
     "requires": "^1.0.0"
@@ -45,7 +45,7 @@
   "id": "mwintertodt-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "2A8F29A8B581963677C39E6C55CD3D721C9473178FD21E8CBE4FC78A6831AC34989BE6CB9E4DD1978893AA9B1612B088716337CCCDFDE0723F4BDDED3F78962C",
+    "sha512sum": "FEE14F90F357147F6B1E38723CA381C20C67F58CB829222F9F56B1317F7A6B12A4DDDFA74195A25E5FEE2B6393FFC71089C3D04A1428F408F8E96670A053B370",
     "version": "0.0.4",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/m-wintertodt-0.0.4.jar?raw=true",
     "requires": "^1.0.0"
@@ -58,7 +58,7 @@
   "id": "unethicalagility-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "89ADE140163EB75D662965F2F711A10D38E7B943F2A7652A67861D0C80E848BE787ACD00097FD173D568868C20492956AE2F5A2AC78F3B2788B8A6E4F75E4DF3",
+    "sha512sum": "6AE584CDCAD10653ABFE0FEBADB52FE9EAD20EE0C5FA988BFE23F3DCB2F464B279202C13717522A2E193DE66D036A05B9053A49E6C19303D609917E1D8289D79",
     "version": "0.0.8",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-agility-0.0.8.jar?raw=true",
     "requires": "^1.0.0"
@@ -71,7 +71,7 @@
   "id": "unethicalautologin-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "E28D4E9EF2CD31BDB41E7CE01030235232E339F49801B36A126FD26694DBFB7ED0A5AA954C7AA9F8DFD9030D75F66169F0B5581F80AA84BC93D6A92218DB0093",
+    "sha512sum": "5F09BD0CE1E28728834359BCF360A2717E110570FB3F615443F1574082B539E2FBFEA7624F8CDDCB58B82900149C98DA68FE01E2A708386AA12B0A88406D8429",
     "version": "0.0.4",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-autologin-0.0.4.jar?raw=true",
     "requires": "^1.0.0"
@@ -84,7 +84,7 @@
   "id": "unethicalbankpin-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "94F913C1BCE702EAF3A236B47217CA0C391B09EAA9457398DA3561C73727EC2140337D227896AD3DC2552D33C2117304082478C7D5BD74BAB755FEE8B944945A",
+    "sha512sum": "A63D5D96585F571C3C05135EEDF7A7549ECB7424EE322832ED9F34C7C9B6BB4B993FE53274C391C7AE222CDFF5DFCF3D76F296675EA1301BC955A4F618EDED23",
     "version": "0.0.1",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-bankpin-0.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -97,7 +97,7 @@
   "id": "unethicalbirdhouses-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "05F1B5CA98F9A08A593025AE8F53859D643727603E60D72D5638EB5DAFED52BADF5BCA84B80420DB22FCE0EA3B4D521403343D10C965313AD8B15F65A5BD472F",
+    "sha512sum": "C275E1C842601B9851340A1B221A2CA113D32FEDF66FCC54C127E955755575806B35EE77B3B35EAB3531340A477AB6999BB0CB019EC601A5F745E5C53229A1AA",
     "version": "0.0.6",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-birdhouses-0.0.6.jar?raw=true",
     "requires": "^1.0.0"
@@ -110,7 +110,7 @@
   "id": "unethicalbutler-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "7A88684B6762B17B7DC1C278E99C6017AFFFEDC86C2D2A176042C30E829DDB50061F777F198B5573DB3D05B755F198E9DEAF535B04663FE2D582D01E2CEA094F",
+    "sha512sum": "23499A8ACDCB9D77A5B67B5940538DB1E24E8AAF0CAC874F723DED04D0F66EDE1AD7A7A248465E50FA491E455625E1D2D0A7D8FBE2F656634BE581524200CF88",
     "version": "0.0.1",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-butler-0.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -123,7 +123,7 @@
   "id": "unethicalchopper-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "0B84A3E040F62A592C107D6099E987766C690C76931F869CE425BF1F9FB5E658096926F1EACA2C51CEE959BEBB5965F30EFDA8A4D5538875CA20D8E7308E7947",
+    "sha512sum": "E4F633BFAF475EEDFC1422C8DAED78075008BB0ED2FF924813E7099A21A25593FD0DC54FD835CAF605D9E2B45170C711EFA52CCAD7E61912BF710B3ECD38A3ED",
     "version": "0.0.3",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-chopper-0.0.3.jar?raw=true",
     "requires": "^1.0.0"
@@ -136,7 +136,7 @@
   "id": "unethicalcooker-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "A7DC58C280ADA767BC2A631DCE14BA263EF98E83219C14E628416CA0714128F2BEC1CCA608DE3009B5A491D80657B3D58D3FBC004DF7A6981F5551D21C622887",
+    "sha512sum": "F7753BF2F5506ECE8EA993E8049AE7E724C6425E49DECCEBCCA41C2ED129B454495D7216DB2642ACDBD76F4D4A8FC9C9CB50256682CD05700704868DC2A54D95",
     "version": "0.0.3",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-cooker-0.0.3.jar?raw=true",
     "requires": "^1.0.0"
@@ -149,7 +149,7 @@
   "id": "unethicalexplorer-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "B1864C2504957FE6681CA31F83D4724CB53E127A912232BE6E4D2217E89939534498203FEB2009014DE99B3FB404F37B8E1B410409BE79653B01BB0334A6242D",
+    "sha512sum": "E1DE43EFFCD9AF05AA39F97B6809053D176A6DC4C1162172D5363283C90B2553C79A74B24286E32F5E564E1BA51C3F8C2422F4A74965B8FA5CAA58B2C547AFCD",
     "version": "0.0.5",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-explorer-0.0.5.jar?raw=true",
     "requires": "^1.0.0"
@@ -162,7 +162,7 @@
   "id": "unethicalfighter-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "D67E7096E27FB267EB455379405DD4D5EAD620DC5892F3696B51C3B71905D73645D0DF78E619DECC3FCFAE791292DBA645388365D5A2D83E6BE055CD20B3A5D5",
+    "sha512sum": "38F41A0A99E76A2DBA41FF59136C56B3C7A66031FCA67E440BCF7274A13F13098724FDE2CCF39D0BE0D480E3FBD9969957FB4F19DC164C410E87EA2CF9D6C011",
     "version": "0.0.7",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-fighter-0.0.7.jar?raw=true",
     "requires": "^1.0.0"
@@ -175,7 +175,7 @@
   "id": "unethicalkebabbuyer-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "ED2FBBB7B2C43CE64484152F616BE964F9808BED7E919496806D45B117D739341473A85049406E94B2B24F12F10B521613BF257042792EEF9E4503F9B4407944",
+    "sha512sum": "807D61E7D710D758E6D072A4C6EFC7E4FE7110BD9C93D33C9313E753624D153499840D9AAFED2EAA62E5195DD65BCF131CE6532FBE0034D2715FF19F0964C393",
     "version": "0.0.1",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-kebab-buyer-0.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -188,7 +188,7 @@
   "id": "unethicallogout-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "45855E4D11A97F2C332E608F569DC536056D611A4EEDBBC015ED7F10A3A866AA431C37E97599AF29B1C65FDB623DB569567C8555DEA0D6033CE31BCA8AD7953F",
+    "sha512sum": "06DF1BDC18B3201EDE02CA90C57A6E0A32DC4265F7489D6168402BD87A5ACB0874DC274C77F64FF3F2534C5340357FB43843DA787ACCE4CBC01FDBC526CFE304",
     "version": "0.0.1",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-logout-0.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -201,7 +201,7 @@
   "id": "unethicaloneclick-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "1C9476AC67DFE795B7A3675CBC3A47038C1F66697E4E200240A2927419DBB75AFCEC7C611FCA02B030AC7C45CB45BD11B0636A7B2A5CA10666FB2DA461130F00",
+    "sha512sum": "DCE2764231C9D513884704F92E680B91C4995C66634E1B41AFCE1C81B4EE5FEB08007AB84D653ED45C4DECBE2CD1D43E815CC5EA711F5A014D05E45BBC44A2D7",
     "version": "0.0.1",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-oneclick-0.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -214,7 +214,7 @@
   "id": "unethicalpickpocket-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "9BD541AA53A1F98D3E6AED4D907C25993EACE7F78A2E4A7145910DC8FEB87028D38473AF97BD80C69E8D3744C6736D45779F5FC12631583C0BBE12D11176646C",
+    "sha512sum": "AA45F7EC19E1F7CF4703CD051D7672D7C86A3ED47234F068A87ED8FFD87086859BD65890A864B47290168E9E68930F64707F4C07BBF7C5D26CE93A33BC55CC16",
     "version": "0.0.6",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-pickpocket-0.0.6.jar?raw=true",
     "requires": "^1.0.0"
@@ -227,7 +227,7 @@
   "id": "unethicalprayer-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "056F8CB30D1AD279BB70B6040D549E843FE96588C9CCBCF7FA7888912090A7B85D4B35B2CA693F51AA1A64A03ED926C659261F423EAEF5F6DC3C92486A8B4248",
+    "sha512sum": "01CFB69F23721682C33FFADA97CCDA3203846F3DDBD3E67110988715AD200FE889628E6C283637AC39C0D5C097BA1E3441DE407E863253EF7580B4ECCA56BC2B",
     "version": "0.0.6",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-prayer-0.0.6.jar?raw=true",
     "requires": "^1.0.0"
@@ -240,7 +240,7 @@
   "id": "unethicaltempoross-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "270F1DDE065F463AB7EC1BC3A0D21B87F46A1BE06A878F806EBABFD72015113617553C16F23D476E9B683103F7FA7FFC5E5A0DACF19839658596AFAD0A06B363",
+    "sha512sum": "8EBD7FAE7C871645C83ACC38345FC22ACC5A5B825746F96DEEF317EC7C2288C9E3D23EF3C2C22F758A3FFA54CF2672B7D8317096E9B30B041B05374BF6B631FD",
     "version": "0.0.1",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-tempoross-0.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -253,7 +253,7 @@
   "id": "unethicalzulrah-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "64F2F60E2744C09ED5CD326F8AAA161DFED2AEA662C863A2D9FDE41DF20763FCC0F367662BA9E5993A8C4D52F432FF13AF35F1BC1D9852402C507DCAD0C83978",
+    "sha512sum": "A67E4A8C5E0AD63A4DCA7E2F76EF5D4255091956CD8B18A288951A53172E63D4D938B06C8E2D2DC91A85BA05F0985E5E1EB99833DFEE3121758964B6C9EF51D5",
     "version": "0.0.2",
     "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-zulrah-0.0.2.jar?raw=true",
     "requires": "^1.0.0"
